@@ -3,7 +3,7 @@
 A Spa Web App About Studiyng (Online)
 
 
--Created With Vite Plugin
+-Created With Vite Tool
 
 
 -Full Responsive
