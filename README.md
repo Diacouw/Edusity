@@ -1,6 +1,6 @@
 -Edusity Page
 
-A Spa Web App About Studiyng (Online)
+A Spa About Studiyng (Online)
 
 
 -Created With Vite Tool
